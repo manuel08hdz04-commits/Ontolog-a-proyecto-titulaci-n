@@ -1,0 +1,1 @@
+La **interpretación**, un concepto que abarca diversas áreas del conocimiento y la expresión humana, se ha vuelto fundamental en nuestra vida cotidiana y profesional. Ya sea en el ámbito de la traducción de lenguas, el  arte o incluso en la comunicación diaria, entender el significado y la aplicación de la **interpretación** es crucial.

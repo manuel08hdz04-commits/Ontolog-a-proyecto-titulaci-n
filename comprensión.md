@@ -1,0 +1,1 @@
+La comprensión es la **capacidad de captar el significado o la razón de ser de algo. Implica relacionar la información con los conocimientos previos y construir un sentido propio a partir de lo que se recibe.

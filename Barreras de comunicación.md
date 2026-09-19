@@ -1,0 +1,2 @@
+Las barreras de la comunicación, también llamadas interferencias, son obstáculos que impiden que un mensaje llegue de manera clara y precisa a su destinatario, provocando distorsión, fragmentación o malentendidos en el proceso comunicativo.
+Estas barreras pueden surgir en cualquier contexto donde se intercambien ideas, ya sea oral, escrita o no verbal, y afectan tanto la [[comprensión]] como la [[interpretación]] del mensaje
