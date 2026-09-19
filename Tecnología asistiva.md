@@ -2,7 +2,7 @@
 
 ## Definición
 
-La tecnología asistiva comprende productos, sistemas, dispositivos, equipos, instrumentos y servicios destinados a mantener o mejorar la funcionalidad y la independencia de las personas, facilitando su participación y bienestar.
+La tecnología asistiva comprende productos, [[sistemas]], dispositivos, equipos, instrumentos y servicios destinados a mantener o mejorar la funcionalidad y la independencia de las personas, facilitando su participación y bienestar.
 
 ## Función dentro del proyecto
 

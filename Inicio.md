@@ -13,7 +13,7 @@ El proyecto contempla dos sistemas principales:
 
 ## Dominios principales
 
-- [[Discapacidad y población]]
+- [[Discapacidad]]
 - [[Tecnología asistiva]]
 - [[Inteligencia artificial]]
 - [[Adquisición de información]]

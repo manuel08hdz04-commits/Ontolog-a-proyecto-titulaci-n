@@ -1,0 +1,2 @@
+Es la disciplina científica que estudia de forma sistemática el origen, la evolución, la estructura y el uso del [[lenguaje humano]]. A diferencia de la gramática tradicional, no busca dictar normas sobre cómo se _debe_ hablar o escribir, sino describir y explicar cómo funcionan las lenguas reales en la sociedad.
+
