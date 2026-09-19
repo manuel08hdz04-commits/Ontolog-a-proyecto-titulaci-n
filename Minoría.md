@@ -1,3 +1,1 @@
 Es un grupo de personas que representa una parte menor de la población de un Estado o región, o bien un sector que se encuentra en una situación de desventaja o desigualdad frente a un grupo social dominante.
-
-c
